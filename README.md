@@ -1,12 +1,15 @@
-# rdp2021
-Create Free RDP 7GB RAM and 2 CPU Core with Github. Follow these instructions
+# RDP2021
+# FREE RDP WINDOWS SERVER!
 
-    Click Fork to get started (Mobile users please activate Desktop Mode).
-    Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
-    In this repository go to Settings> Secrets> New repository secret
-    Name: NGROK_AUTH_TOKEN
-    Value: https://dashboard.ngrok.com/auth/your-authtoken copy and paste authtoken in the value
-    Click add secret
-    Go to Action (if you see any warning click "I understand...") > rdp2021 > run workflow
-    Refresh website - go to rdp2021 > build
-    Click the down arrow "RDP INFO LOGIN" To get IP, User, Password.
+Create Free RDP 7GB RAM and 2 CPU Core with Github.
+Follow these instructions
+
++ Click Fork to get started (Mobile users please activate Desktop Mode).
++ Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
++ In this repository go to Settings> Secrets> New repository secret
++ Name: NGROK_AUTH_TOKEN
++ Value: https://dashboard.ngrok.com/auth/your-authtoken copy and paste authtoken in the value
++ Click add secret
++ Go to Action (if you see any warning click "I understand...") > RDP2021 > run workflow
++ Refresh website - go to RDP2021 > build
++ Click the down arrow "RDP INFO LOGIN" To get IP, User, Password.
